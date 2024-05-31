@@ -75,7 +75,7 @@
         <p>To get started with the Students Information System, follow the steps below:</p>
         <div class="code-block">
             <p>1. Clone the repository:</p>
-            <pre><code>git clone https://github.com/your-repo/students-information-system.git</code></pre>
+            <pre><code>git clone https://Asdesac/Student_registratio_system</code></pre>
             <p>2. Open the project in your preferred IDE (e.g., IntelliJ, Eclipse).</p>
             <p>3. Ensure you have MySQL installed and running.</p>
             <p>4. Create a database named <span class="highlight">student_result</span> and run the provided SQL script to set up the necessary tables.</p>
